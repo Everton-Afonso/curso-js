@@ -1,1 +1,4 @@
-# curso-js
+# Curso JavaScript
+## Sobre este curso
+
+Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
